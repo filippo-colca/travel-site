@@ -1,7 +1,7 @@
 .btn {
-  background: orange;
+  background: $mainBlue;
   color: #FFF;
-  max-width: 10rem;
-  padding: 2rem;
-  margin: 0 auto;
+  text-decoration: none;
+  padding: 1.2rem;
+  display: inline-block;
 }
